@@ -17,7 +17,7 @@
 	}
 	else {
 		echo "Error<br/>";
-		echo "<a href='sesion.php'>Volver</a>";
+		echo "<a href='index.php'>Volver</a>";
 	}
 	
 	?>
